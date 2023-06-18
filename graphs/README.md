@@ -1,11 +1,11 @@
 ## June 2023
 
-- [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (Neurips21) 
+- [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
 
-- [ ] Graph Contrastive Learning with Augmentations. (Neurips21)
+- [ ] Graph Contrastive Learning with Augmentations. (NeurIPS22)
 
-- [ ] Latent Graph Inference using Product Manifolds.(ICLR 2023) 
+- [ ] Latent Graph Inference using Product Manifolds.(ICLR23) 
 
-- [ ] Graph Domain Adaptation via Theory-Grounded Spectral Regularizazion.(ICLR 20223) 
+- [ ] Graph Domain Adaptation via Theory-Grounded Spectral Regularizazion.(ICLR23) 
 
 - [ ] MOLE-BERT: Rethinking Pre-training Graph Neural Networks for Molecules.(ICLR23)
