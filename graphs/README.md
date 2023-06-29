@@ -8,6 +8,12 @@
 
 - [ ] Differentiable Graph Module (DGM) for Graph Convolutional Networks. (22)
 
+- [ ] Riemannian Score-Based Generative Modelling (NeurIPS22)
+
+- [ ] Hyperbolic Graph Convolutional Neural Networks (NeurIPS19)
+
+- [ ] Hyperbolic Graph Neural Networks (NeurIPS19)
+
 - [ ] Graph Domain Adaptation via Theory-Grounded Spectral Regularizazion.(ICLR23) 
 
 - [ ] MOLE-BERT: Rethinking Pre-training Graph Neural Networks for Molecules.(ICLR23)
