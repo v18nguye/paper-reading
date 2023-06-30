@@ -10,7 +10,7 @@
 
 - [ ] Riemannian Score-Based Generative Modelling (NeurIPS22)
 
-- [ ] Hyperbolic Graph Convolutional Neural Networks (NeurIPS19)
+- [ ] Hyperbolic Graph Convolutional Neural Networks (NeurIPS19) [Talk](https://www.youtube.com/watch?v=8_BOxvdMqsA&ab_channel=AIPursuitbyTAIR)
 
 - [ ] Hyperbolic Graph Neural Networks (NeurIPS19)
 
