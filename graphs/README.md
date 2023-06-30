@@ -1,4 +1,4 @@
-## June 2023
+# June 2023
 
 - [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
 
