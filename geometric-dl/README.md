@@ -8,4 +8,4 @@
 
 - [ ] Hyperbolic Embeddings in Machine Learning and Deep Learning. [Talk](https://www.youtube.com/watch?v=-ksbWExpWis&ab_channel=OctavianGanea)
 
-- [ ] Non-Euclidean Geometry & the Shape of Space. [Talk](https://www.youtube.com/watch?v=jJq1vZbOrwI&ab_channel=AdamsStateUniversity)
+- [ ] Hyperbolic Embeddings Tutorial (DiffGeo4DL NeurIPS 2020). [Talk](https://www.youtube.com/watch?v=MdPk3qD4Wig&ab_channel=HazyResearch)
