@@ -1,6 +1,10 @@
-# June 2023
+# July 2023
+
+- [ ] A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening. (NeurIPS19)
 
 - [ ] Graph Coarsening with Neural Networks. (ICLR21)
+
+# June 2023
 
 - [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
 
