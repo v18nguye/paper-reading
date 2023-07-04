@@ -4,6 +4,8 @@
 
 - [ ] Graph Coarsening with Neural Networks. (ICLR21)
 
+- [ ] Spectral Sparsification of Graphs.
+
 ## June 2023
 
 - [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
