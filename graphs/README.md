@@ -1,5 +1,7 @@
 # June 2023
 
+- [ ] Graph Coarsening with Neural Networks. (ICLR21)
+
 - [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
 
 - [ ] Graph Contrastive Learning with Augmentations. (NeurIPS22)
