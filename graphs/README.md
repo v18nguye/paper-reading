@@ -6,6 +6,10 @@
 
 - [ ] Spectral Sparsification of Graphs.
 
+- [ ] Attention-based Transformation from Latent Features to Point Clouds.
+
+- [ ] Learning Representations and Generative Models for 3D Point Clouds. (ICML2018)
+
 ## June 2023
 
 - [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
