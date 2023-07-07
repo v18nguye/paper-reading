@@ -12,6 +12,8 @@
 
 - [x] TOP-N: Equivariant Set and Graph Generation without Exchangeability. (ICLR22)
 
+- [x] GG-GAN: A Geometric Graph Generative Adversarial Network. (21)
+
 ## June 2023
 
 - [ ] LION: Latent Point Diffusion Models for 3D Shape Generation. (NeurIPS22) 
