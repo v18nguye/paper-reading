@@ -1,5 +1,9 @@
 ## July 2023
 
+- [ ] Equivariant Subgraph Aggregation Networks. (ICLR22)
+
+- [ ] Evaluation Metrics for Graph Generative Models: Problem, Pitfalls, and Practical Solucations. (ICLR22)
+
 - [ ] A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening. (NeurIPS19)
 
 - [ ] Graph Coarsening with Neural Networks. (ICLR21)
