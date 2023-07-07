@@ -8,7 +8,9 @@
 
 - [ ] Attention-based Transformation from Latent Features to Point Clouds.
 
-- [ ] Learning Representations and Generative Models for 3D Point Clouds. (ICML2018)
+- [ ] Learning Representations and Generative Models for 3D Point Clouds. (ICML18)
+
+- [x] TOP-N: Equivariant Set and Graph Generation without Exchangeability. (ICLR22)
 
 ## June 2023
 
