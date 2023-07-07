@@ -1,4 +1,5 @@
 ## July 2023
+- [ ] Neural Structured Prediction for Inductive Node Classification. (ICLR22)
 
 - [ ] Equivariant Subgraph Aggregation Networks. (ICLR22)
 
