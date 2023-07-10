@@ -1,4 +1,6 @@
 ## July 2023
+- [x] Accurate Learning of Graph Representations with Graph Multiset Pooling. (ICLR21) [Link](https://drive.google.com/file/d/1yB30VT9W_h25T3XbA8PEx8zk85OqBD2a/view?usp=sharing)
+
 - [ ] Neural Structured Prediction for Inductive Node Classification. (ICLR22)
 
 - [ ] Equivariant Subgraph Aggregation Networks. (ICLR22)
