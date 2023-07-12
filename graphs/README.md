@@ -1,4 +1,11 @@
 ## July 2023
+
+- [ ] Multiresoluation Equivariant Graph Variational AutoEncoder.
+
+- [ ] Hierarchical Generation of Molecular Graphs using Structural Motifs. ()
+
+- [ ] SetVAE: Learning Hierarchical Composition for Generative Modeling of Set-Structured Data. (CVPR21)
+
 - [x] Accurate Learning of Graph Representations with Graph Multiset Pooling. (ICLR21) [Link](https://drive.google.com/file/d/1yB30VT9W_h25T3XbA8PEx8zk85OqBD2a/view?usp=sharing)
 
 - [ ] Neural Structured Prediction for Inductive Node Classification. (ICLR22)
