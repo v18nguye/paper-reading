@@ -1,6 +1,10 @@
 ## July 2023
 
-- [ ] Multiresoluation Equivariant Graph Variational AutoEncoder.
+- [ ] Exploring Chemical Space with Score-based Out-of-distribution Generation
+
+- [ ] Graph Generation with Destination-Predicting Diffusion Mixture.
+
+- [x] Multiresoluation Equivariant Graph Variational AutoEncoder.
 
 - [ ] Hierarchical Generation of Molecular Graphs using Structural Motifs. ()
 
