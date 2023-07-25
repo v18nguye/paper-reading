@@ -1,5 +1,7 @@
 ## July 2023
 
+- [ ] Variational Sparse Coding. 
+
 - [ ] Data-Efficient Graph Grammar Learning for Molecular Generation. (ICLR22)
 
 - [ ] GRAPHEBM: Molecular Graph Generation with Energy-based Models. (ICLR21)
