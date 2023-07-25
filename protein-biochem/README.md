@@ -1,6 +1,7 @@
 ## July 2023
+- [ ] VAE with a VampPrior. (17)
 
-- [ ] Variational Sparse Coding. 
+- [ ] Variational Sparse Coding. (20)
 
 - [ ] Data-Efficient Graph Grammar Learning for Molecular Generation. (ICLR22)
 
