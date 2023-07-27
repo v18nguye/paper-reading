@@ -1,4 +1,5 @@
-## July
+## July 2023
+
 - [ ] Vae with a VampPrior. (18)
 
 - [ ] Variational Sparse Encoding. (20)
