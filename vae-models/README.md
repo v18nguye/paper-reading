@@ -1,4 +1,5 @@
 ## July
+- [ ] Understanding disentagling in B-VAE. (18)
 
 - [ ] Multi-rate Vae: Train Once, Get the Full Rate-Distortion Curve.(ICLR 23)
 
