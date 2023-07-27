@@ -1,6 +1,6 @@
 ## July
 
-- [ ] Understanding disentagling in B-VAE. (18)
+- [ ] Understanding disentagling in B-VAE. [Link](https://wandb.ai/arpastrana/beta_vae/reports/Disentangling-Variational-Autoencoders--VmlldzozNDQ3MDk) (18)
 
 - [ ] Multi-rate Vae: Train Once, Get the Full Rate-Distortion Curve.(ICLR 23)
 
