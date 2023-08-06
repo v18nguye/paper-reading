@@ -1,3 +1,13 @@
+## August 2023
+
+- [x] Graph Neural Network for Link Prediction with Subgraph Sketching.
+    + Solved the node automorphic problem where two node are automorphic have the same representation due to equivariant permutation GNNs.
+    + Used subgraph sketching to augument node features, which solved the node automorphic problem. In addition, the subgraph sketching extracted features can be
+    incorporated into standard message passing for propagation.
+
+- [ ] Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks.
+  
+
 ## July 2023
 
 - [ ] Exploring Chemical Space with Score-based Out-of-distribution Generation
