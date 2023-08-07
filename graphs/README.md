@@ -1,7 +1,19 @@
 ## August 2023
 
-- [ ] **Link Prediction Based on Graph Neural Networks. (NeurIPS18)**
+- [x] **Link Prediction Based on Graph Neural Networks. (NeurIPS18)**
+    + Link existence prediction has been based on handcrafted heuristics: eg. CN, PA (1-hop neighbors), AA, AR (2-hop neighbors), etc (Table 3). Introducing a new framework aims to unifying different heuristics by learning, which is based on gamma-decay theory. In addition, this removed the needs of using high-order heuristics for the task.
+    + Heuristics belong to a generic framework, *graph structure features* (structural features), located inside the **observed** node and edges features, can be directly computed from the graph.  
+    + Link prediction happens on *local enclosing subgraphs*, not on entire graphs. A new framework, namely SEAL permits to further incoporate *latent* and *explicit* node features. Thus SEAL includes a 3-component node information matrix: structural node labels, node embeddings, and node attributes, which are largely **orthogonal** each other.
+    + Arcodding to the authors: 
+        > Graph structure features are *inductive*, meaning that these features are not associated with a particular
+        node or network. This is in contrast to latent features, which are often *transductive* – the changing of network
+        structure will require a complete retraining to get the latent features again. (page 12).
 
+        > Latent features, obtained by factorizing the adjacency matrix of the laplacian one, focus more on global properties and long range effects, cannot capture structural smililarities between nodes, and transductive. 
+
+        > Explicit features are often given by continuous or discrete node attribute vectors. 
+    + Propsed **DRNL** for node labeling, which  islatter used as structural features. The model backend is built on Deep Graph Convolutationl Neural Network (DGCNN).
+    
 - [x] **Graph Neural Network for Link Prediction with Subgraph Sketching. (ICLR23)**
     + Solved the node automorphic problem where two node are automorphic have the same representation due to equivariant permutation GNNs.
     + Used subgraph sketching to augument node features, which solved the node automorphic problem. In addition, the subgraph sketching extracted features can be
