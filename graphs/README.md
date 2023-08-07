@@ -1,5 +1,7 @@
 ## August 2023
 
+- [ ] **Link Prediction Based on Graph Neural Networks. (NeurIPS18)**
+
 - [x] **Graph Neural Network for Link Prediction with Subgraph Sketching. (ICLR23)**
     + Solved the node automorphic problem where two node are automorphic have the same representation due to equivariant permutation GNNs.
     + Used subgraph sketching to augument node features, which solved the node automorphic problem. In addition, the subgraph sketching extracted features can be
