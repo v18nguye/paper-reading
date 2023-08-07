@@ -1,5 +1,7 @@
 ## August 2023
 
+- [ ] **Can Graph Neural Networks Count Substructure? (NeurIPS20)**
+
 - [x] **Link Prediction Based on Graph Neural Networks. (NeurIPS18)**
     + Link existence prediction has been based on handcrafted heuristics: eg. CN, PA (1-hop neighbors), AA, AR (2-hop neighbors), etc (Table 3). Introducing a new framework aims to unifying different heuristics by learning, which is based on the gamma-decay theory. In addition, this removed the needs of using high-order heuristics for the task.
 
